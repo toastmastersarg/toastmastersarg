@@ -196,7 +196,9 @@ p a:hover {
 }
 */
 #body div.content div div.section {
+/*
 	padding: 55px 0 0;
+*/
 	width: 430px;
 	
 }
@@ -257,6 +259,9 @@ p a:hover {
 	color: #004165;
 	text-decoration: none;
 }
+
+
+
 #body div.content div ul li h5 {
 	font-family: 'Montserrat';
 	font-size: 24px;
