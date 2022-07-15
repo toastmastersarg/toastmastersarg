@@ -207,11 +207,19 @@
 		padding: 12px 0 0;
 		text-align: center;
 		color: #004165;
+
+	/* Estilo mientras OB este cerrado */
+	
+	color: #b3c6d1;
 	}
 	
 	#body div.content div ul li ul.ob a{
+/*
 		color: #004165;
+*/
 		text-decoration: none;
+
+	color: #b3c6d1;
 	}
 	#body div.content div ul li ul.ob a.mail{
 		font-size: 16px;
