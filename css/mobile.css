@@ -206,7 +206,9 @@
 		margin: 0;
 		padding: 12px 0 0;
 		text-align: center;
+/*
 		color: #004165;
+*/
 
 	/* Estilo mientras OB este cerrado */
 	
@@ -224,6 +226,12 @@
 	#body div.content div ul li ul.ob a.mail{
 		font-size: 16px;
 	}
+	
+	#body div.content div ul li ul.ob b{
+		color: #004165;
+		text-decoration: none;
+	}	
+	
 	#body div.content div ul li h5 {
 		font-family: 'Montserrat';
 		font-size: 24px;
