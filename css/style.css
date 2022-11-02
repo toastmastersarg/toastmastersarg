@@ -126,7 +126,7 @@ p a:hover {
 	padding: 45px 40px 46px;
 }
 #body > h2 {
-	color: #772432;
+	color: #A9B2B1;
 	font-family: 'Montserrat';
 	font-size: 35px;
 	font-weight: normal;
@@ -245,29 +245,18 @@ p a:hover {
 	color: #FFFFFF;
 }
 
-#body div.content div ul li ul.ob {
+#body div.content div ul li ul.mg {
 	font-family: 'Montserrat';
 	font-size: 20px;
 	font-weight: lighter;
 	margin: 0;
 	padding: 12px 0 0;
 	text-align: center;
-/*	color: #004165;
-*/	
-	/* Estilo mientras OB este cerrado */
-	
-	color: #b3c6d1;
-	
+	color: #004165;
+		
 }
 
-#body div.content div ul li ul.ob a{
-/*	color: #004165;
-*/	text-decoration: none;
-
-	color: #b3c6d1;
-}
-
-#body div.content div ul li ul.ob b{
+#body div.content div ul li ul.mg a{
 	color: #004165;
 	text-decoration: none;
 }
@@ -283,16 +272,29 @@ p a:hover {
 	color: #FFFFFF;
 }
 
-#body div.content div ul li ul.mg {
+#body div.content div ul li ul.ob {
 	font-family: 'Montserrat';
 	font-size: 20px;
 	font-weight: lighter;
 	margin: 0;
 	padding: 12px 0 0;
 	text-align: center;
+	
+	/* Estilo mientras OB este cerrado */
+	
+	color: #e8b0ba;
+	
 }
 
-#body div.content div ul li ul.mg a{
+#body div.content div ul li ul.ob a{
+/*	color: #772432;
+*/	text-decoration: none;
+
+
+	color: #edc4cb;
+}
+
+#body div.content div ul li ul.ob b{
 	color: #772432;
 	text-decoration: none;
 }
