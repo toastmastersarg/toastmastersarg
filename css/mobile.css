@@ -236,16 +236,17 @@
 		margin: 0;
 		padding: 12px 0 0;
 		text-align: center;
-	/* Estilo mientras OB este cerrado */
+		color: #772432;
 	
-	color: #edc4cb;
+/*	color: #edc4cb; */ /* Estilo mientras este cerrado */
+
 	}
 	
 	#body div.content div ul li ul.ob a{
-/*		color: #772432;
-*/		text-decoration: none;
+		color: #772432;
+		text-decoration: none;
 
-	color: #edc4cb;
+/*	color: #edc4cb; */ /* Estilo mientras este cerrado */
 	}
 	
 	#body div.content div ul li ul.ob b{
